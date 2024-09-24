@@ -8,5 +8,8 @@ public class Main {
         //I do believe this is a testing branch, which I am going to attempt to commit
         //To the master
 
+        //So now we are in the we are learning branch, which is a branch of master.
+        //Hitting "checkout" is how you switch branches
+
     }
 }
